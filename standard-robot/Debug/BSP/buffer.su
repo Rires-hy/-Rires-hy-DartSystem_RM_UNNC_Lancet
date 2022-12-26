@@ -1,0 +1,5 @@
+buffer.c:6:6:IO_Buffer_Init	24	static
+buffer.c:26:6:IO_Buffer_Init_external	24	static
+buffer.c:47:6:IO_Buffer_DeInit	16	static
+buffer.c:61:10:IO_Buffer_Acquire	16	static
+buffer.c:76:10:IO_Buffer_Release	16	static

@@ -1,0 +1,2 @@
+usb_task.c:95:6:usb_task	56	static
+usb_task.c:224:13:usb_printf	16	static

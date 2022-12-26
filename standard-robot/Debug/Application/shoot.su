@@ -1,0 +1,7 @@
+shoot.c:105:6:shoot_init	8	static
+shoot.c:139:13:fric_motor_init	8	static
+shoot.c:154:9:shoot_control_loop	8	static
+shoot.c:250:13:shoot_set_mode	8	static
+shoot.c:356:13:shoot_feedback_update	8	static
+shoot.c:469:13:trigger_motor_turn_back	4	static
+shoot.c:500:13:shoot_bullet_control	8	static

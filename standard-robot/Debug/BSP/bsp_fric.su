@@ -1,0 +1,3 @@
+bsp_fric.c:36:6:fric_off	4	static
+bsp_fric.c:50:6:fric1_on	16	static
+bsp_fric.c:63:6:fric2_on	16	static

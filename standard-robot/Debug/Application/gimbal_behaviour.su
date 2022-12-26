@@ -1,0 +1,12 @@
+gimbal_behaviour.c:190:6:gimbal_behaviour_mode_set	16	static
+gimbal_behaviour.c:242:6:gimbal_behaviour_control_set	24	static
+gimbal_behaviour.c:282:9:gimbal_cmd_to_chassis_stop	4	static
+gimbal_behaviour.c:299:9:gimbal_cmd_to_shoot_stop	4	static
+gimbal_behaviour.c:317:13:gimbal_behavour_set	16	static
+gimbal_behaviour.c:409:13:gimbal_zero_force_control	24	static
+gimbal_behaviour.c:429:13:gimbal_init_control	24	static
+gimbal_behaviour.c:457:13:gimbal_absolute_angle_control	24	static
+gimbal_behaviour.c:520:13:gimbal_relative_angle_control	24	static
+gimbal_behaviour.c:546:13:gimbal_motionless_control	24	static
+gimbal_behaviour.c:556:13:gimbal_AI_control	24	static
+gimbal_behaviour.c:580:13:AI_robotic_calculation	32	static

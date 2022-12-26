@@ -1,0 +1,3 @@
+bsp_rc.c:14:6:RC_Init	24	static
+bsp_rc.c:44:6:RC_unable	4	static
+bsp_rc.c:50:6:RC_restart	16	static

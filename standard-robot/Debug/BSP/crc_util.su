@@ -1,0 +1,16 @@
+crc.hpp:11:3:probability::CRC::CRC(uint32_t, uint8_t, uint32_t, uint32_t, bool, bool)	24	static
+crc.hpp:22:11:probability::CRC::~CRC()	16	static
+crc.hpp:22:11:virtual probability::CRC::~CRC()	16	static
+crc.hpp:24:17:const int32_t probability::CRC::compute(const void*, uint64_t, uint32_t*) const	40	static
+crc.hpp:42:17:const int32_t probability::CRC::compute_partial(const void*, uint64_t, uint32_t*) const	80	static
+crc.hpp:91:17:const int32_t probability::CRC::compute_partial_start(uint32_t*) const	16	static
+crc.hpp:99:17:const int32_t probability::CRC::compute_partial_stop(uint32_t*) const	32	static
+crc.hpp:132:18:const uint32_t probability::CRC::get_top_bit() const	16	static
+crc.hpp:137:18:const uint32_t probability::CRC::get_crc_mask() const	24	static
+crc.hpp:142:18:const uint32_t probability::CRC::reflect_remainder(uint32_t) const	32	static
+crc.hpp:167:18:const uint32_t probability::CRC::reflect_data(uint32_t) const	32	static
+crc_util.cpp:14:9:int32_t crc8compute(const void*, uint64_t, uint32_t*)	32	static
+crc_util.cpp:19:9:int32_t crc16compute(const void*, uint64_t, uint32_t*)	32	static
+crc_util.cpp:22:1:void __static_initialization_and_destruction_0(int, int)	32	static
+crc_util.cpp:22:1:cpp)	8	static
+crc_util.cpp:22:1:cpp)	8	static

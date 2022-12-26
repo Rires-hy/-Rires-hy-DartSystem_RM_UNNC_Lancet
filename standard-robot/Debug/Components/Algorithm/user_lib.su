@@ -1,0 +1,13 @@
+user_lib.c:4:11:invSqrt	32	static
+user_lib.c:24:6:ramp_init	24	static
+user_lib.c:42:6:ramp_calc	16	static
+user_lib.c:63:6:first_order_filter_init	24	static
+user_lib.c:78:6:first_order_filter_cali	16	static
+user_lib.c:86:6:abs_limit	16	static
+user_lib.c:99:11:sign	16	static
+user_lib.c:112:11:fp32_deadline	24	static
+user_lib.c:122:9:int16_deadline	16	static
+user_lib.c:132:11:fp32_constrain	24	static
+user_lib.c:143:9:int16_constrain	16	static
+user_lib.c:154:11:loop_fp32_constrain	32	static
+user_lib.c:184:11:theta_format	16	static

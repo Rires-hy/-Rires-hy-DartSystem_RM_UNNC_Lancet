@@ -1,0 +1,8 @@
+chassis_behaviour.c:162:6:chassis_behaviour_mode_set	16	static
+chassis_behaviour.c:242:6:chassis_behaviour_control_set	24	static
+chassis_behaviour.c:286:13:chassis_zero_force_control	24	static
+chassis_behaviour.c:308:13:chassis_no_move_control	24	static
+chassis_behaviour.c:330:13:chassis_infantry_follow_gimbal_yaw_control	24	static
+chassis_behaviour.c:414:13:chassis_engineer_follow_chassis_yaw_control	24	static
+chassis_behaviour.c:437:13:chassis_no_follow_yaw_control	24	static
+chassis_behaviour.c:458:13:chassis_open_set_control	24	static

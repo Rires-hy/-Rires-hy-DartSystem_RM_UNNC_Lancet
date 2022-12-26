@@ -1,0 +1,9 @@
+chassis_task.c:119:6:chassis_task	16	static
+chassis_task.c:185:13:chassis_init	32	static
+chassis_task.c:246:13:chassis_set_mode	16	static
+chassis_task.c:263:13:chassis_mode_change_control_transit	16	static
+chassis_task.c:300:13:chassis_feedback_update	24	static
+chassis_task.c:339:6:chassis_rc_to_control_vector	40	static
+chassis_task.c:403:13:chassis_set_contorl	40	static
+chassis_task.c:483:13:chassis_vector_to_mecanum_wheel_speed	24	static
+chassis_task.c:502:13:chassis_control_loop	48	static

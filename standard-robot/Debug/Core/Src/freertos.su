@@ -1,0 +1,7 @@
+freertos.c:111:6:MX_FREERTOS_Init	8	static
+freertos.c:165:13:usb_task	16	static
+freertos.c:185:13:chassis_task	16	static
+freertos.c:203:13:gimbal_task	16	static
+freertos.c:221:13:INS_task1	16	static
+freertos.c:239:13:detect_task	16	static
+freertos.c:254:13:sdcard_task	16	static

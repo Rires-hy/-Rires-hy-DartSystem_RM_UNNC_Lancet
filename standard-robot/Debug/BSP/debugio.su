@@ -1,0 +1,2 @@
+debugio.c:13:5:dbgprintf	32	dynamic
+debugio.c:34:19:dbgbuf	24	static

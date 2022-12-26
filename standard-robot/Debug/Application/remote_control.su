@@ -1,0 +1,8 @@
+remote_control.c:60:6:remote_control_init	8	static
+remote_control.c:70:18:get_remote_control_point	4	static
+remote_control.c:76:9:RC_data_is_error	8	static
+remote_control.c:122:6:slove_RC_lost	8	static
+remote_control.c:126:6:slove_data_error	8	static
+remote_control.c:132:6:USART1_IRQHandler	16	static
+remote_control.c:212:16:RC_abs	16	static
+remote_control.c:230:13:sbus_to_rc	16	static

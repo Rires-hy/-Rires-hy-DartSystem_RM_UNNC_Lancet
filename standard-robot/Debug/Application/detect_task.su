@@ -1,0 +1,5 @@
+detect_task.c:70:6:detect_task	24	static
+detect_task.c:165:8:toe_is_error	16	static
+detect_task.c:176:6:detect_hook	24	static
+detect_task.c:215:16:get_error_list_point	4	static
+detect_task.c:225:13:detect_init	88	static

@@ -1,0 +1,2 @@
+bsp_laser.c:22:6:laser_on	8	static
+bsp_laser.c:27:6:laser_off	8	static

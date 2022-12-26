@@ -1,0 +1,2 @@
+bsp_buzzer.c:32:6:buzzer_on	40	static
+bsp_buzzer.c:55:6:buzzer_off	4	static
